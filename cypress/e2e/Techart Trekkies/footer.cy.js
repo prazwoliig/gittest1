@@ -75,9 +75,9 @@ describe('footersection' ,() =>{
         cy.get(':nth-child(3) > .redirect1').click()  
     })
 
-    it('test Contact' , () =>{
-        cy.get(':nth-child(3) > .redirect1').click()  
-    })
+    // it('test Contact' , () =>{
+    //     cy.get(':nth-child(3) > .redirect1').click()  
+    // })
 
 
     })
